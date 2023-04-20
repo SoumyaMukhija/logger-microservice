@@ -1,5 +1,4 @@
-# Soumya Mukhija - Canonical
-## A logging service that records the activity of other microservices.
+# A logging service that records the activity of other microservices.
 
 ### Note that we can read logs and add to them, but you cannot modify or delete pre-existing logs.
 
